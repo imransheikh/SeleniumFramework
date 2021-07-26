@@ -1,0 +1,8 @@
+[INFO ] 2021-07-20 23:52:25.359 [main] Log - click on login button at home screen
+[INFO ] 2021-07-20 23:52:28.570 [main] Log - enter email address
+[INFO ] 2021-07-20 23:52:28.647 [main] Log - enter password address
+[INFO ] 2021-07-20 23:52:28.717 [main] Log -  click on login button
+[INFO ] 2021-07-20 23:52:28.962 [main] Log - verify after login home menu should be displayed
+[INFO ] 2021-07-20 23:52:32.493 [main] Log - click on profile display name
+[INFO ] 2021-07-20 23:52:32.838 [main] Log - click on logout link
+[INFO ] 2021-07-20 23:52:34.178 [main] Log - ============END======================
